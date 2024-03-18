@@ -3,7 +3,7 @@
 
 <!-- Aplicar emoticonos más llamativo -->
 <h3 align='center'>Frase de gracias por aterrizar</h3>
-<h3>Presentación: Mi nombre es Gádor</h3>
+<h3 align='center'>Presentación: Mi nombre es Gádor</h3>
 <h2>Rol de desarrollo</h2>
 
 Sobre mí: blablablabla
