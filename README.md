@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/Gdr18/Gdr18/assets/118227919/ed5596cb-d912-47aa-b40d-ddb6dabb59ba"></img>
+<img src="https://github.com/Gdr18/Gdr18/assets/118227919/ed5596cb-d912-47aa-b40d-ddb6dabb59ba" src-data-canonical="aquí el link" width="100%">
 
 <!-- Aplicar emoticonos más llamativo -->
 <h3 align='center'>Frase de gracias por aterrizar</h3>
