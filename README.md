@@ -1,5 +1,4 @@
 <!-- Banner -->
-<img src="https://github.com/Gdr18/Gdr18/assets/118227919/ed5596cb-d912-47aa-b40d-ddb6dabb59ba" data-canonical="aquí link" width="100%" height="" /> 
 
 ![banner](https://github.com/Gdr18/Gdr18/assets/118227919/ed5596cb-d912-47aa-b40d-ddb6dabb59ba)
 
