@@ -1,6 +1,8 @@
 <!-- Banner -->
 <img src="https://github.com/Gdr18/Gdr18/assets/118227919/ed5596cb-d912-47aa-b40d-ddb6dabb59ba" src-data-canonical="aquí el link" width="100%">
 
+![Adobe_Express_20240323_2330100_1.png](https://github.com/Gdr18/Gdr18/assets/118227919/a96d651e-6724-4a5d-b27b-252900678329)
+
 <!-- Aplicar emoticonos más llamativo -->
 <h3 align='center'>Frase de gracias por aterrizar</h3>
 <h3 align='center'>Presentación: Mi nombre es Gádor</h3>
