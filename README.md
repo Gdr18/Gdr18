@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://drive.google.com/file/d/15o7LrQCuURJ7G4hvRulH7sK0_OfRTAgF/view?usp=drivesdk" data-canonical-src="aqui el link" width="100%" height="" /> 
+<img src="https://drive.google.com/file/d/15o7LrQCuURJ7G4hvRulH7sK0_OfRTAgF/view?usp=drivesdk" data-canonical-src="https://drive.google.com/file/d/15o7LrQCuURJ7G4hvRulH7sK0_OfRTAgF/view?usp=drivesdk" width="100%" height="" /> 
 
 <!-- Aplicar emoticonos más llamativo -->
 <h3 align='center'>Frase de gracias por aterrizar</h3>
