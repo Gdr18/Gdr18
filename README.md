@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://drive.google.com/file/d/15o7LrQCuURJ7G4hvRulH7sK0_OfRTAgF/view?usp=drivesdk" data-canonical-src="https://drive.google.com/file/d/15o7LrQCuURJ7G4hvRulH7sK0_OfRTAgF/view?usp=drivesdk" width="100%" height="" /> 
+<img src="https://github.com/Gdr18/Gdr18/assets/118227919/d3371d6f-6065-4fc1-b05a-ac16c0a5c3ff" data-canonical="aquí link" width="100%" height="" /> 
 
 ![banner](https://drive.google.com/file/d/15o7LrQCuURJ7G4hvRulH7sK0_OfRTAgF/view?usp=drivesdk)
 
