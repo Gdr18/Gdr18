@@ -1,7 +1,7 @@
 <!-- Banner -->
-<img src="https://github.com/Gdr18/Gdr18/assets/118227919/d3371d6f-6065-4fc1-b05a-ac16c0a5c3ff" data-canonical="aquí link" width="100%" height="" /> 
+<img src="https://github.com/Gdr18/Gdr18/assets/118227919/ed5596cb-d912-47aa-b40d-ddb6dabb59ba" data-canonical="aquí link" width="100%" height="" /> 
 
-![banner](https://github.com/Gdr18/Gdr18/assets/118227919/d3371d6f-6065-4fc1-b05a-ac16c0a5c3ff)
+![banner](https://github.com/Gdr18/Gdr18/assets/118227919/ed5596cb-d912-47aa-b40d-ddb6dabb59ba)
 
 <!-- Aplicar emoticonos más llamativo -->
 <h3 align='center'>Frase de gracias por aterrizar</h3>
