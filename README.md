@@ -1,6 +1,8 @@
 <!-- Banner -->
 <img src="https://drive.google.com/file/d/15o7LrQCuURJ7G4hvRulH7sK0_OfRTAgF/view?usp=drivesdk" data-canonical-src="https://drive.google.com/file/d/15o7LrQCuURJ7G4hvRulH7sK0_OfRTAgF/view?usp=drivesdk" width="100%" height="" /> 
 
+![banner](https://drive.google.com/file/d/15o7LrQCuURJ7G4hvRulH7sK0_OfRTAgF/view?usp=drivesdk" data-canonical-src="https://drive.google.com/file/d/15o7LrQCuURJ7G4hvRulH7sK0_OfRTAgF/view?usp=drivesdk)
+
 <!-- Aplicar emoticonos más llamativo -->
 <h3 align='center'>Frase de gracias por aterrizar</h3>
 <h3 align='center'>Presentación: Mi nombre es Gádor</h3>
