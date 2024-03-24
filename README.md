@@ -18,7 +18,7 @@ Me considero una persona tenaz y a la que le encanta aprender allá dónde está
 
 <!-- Poner portfolio, CV,  -->
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) -->
-<a href='https://www.canva.com/design/DAF7Y2-NsxI/5bk-d-bh8xuabkbGyyaVIA/edit?utm_content=DAF7Y2-NsxI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' target="_blank"><img alt='Currículum Vitae' src='https://img.shields.io/badge/Currículum_Vitae-100000?style=for-the-badge&logo=Currículum Vitae&logoColor=F08D0A&labelColor=F08D0A&color=F08D0A'/></a>
+<a href='https://drive.google.com/file/d/165KaqzwXwtSAulHK851v9MKuNffPUbGL/view?usp=drivesdk' target="_blank"><img alt='Currículum Vitae' src='https://img.shields.io/badge/Currículum_Vitae-100000?style=for-the-badge&logo=Currículum Vitae&logoColor=F08D0A&labelColor=F08D0A&color=F08D0A'/></a>
 
 <h3>Tecnologías</h3>
 
