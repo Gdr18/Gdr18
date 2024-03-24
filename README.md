@@ -27,6 +27,7 @@ Me considero una persona tenaz y a la que le encanta aprender allá dónde está
 <h3>Me puedes encontrar aquí</h3>
 
 <!-- gmail, 
+<a href='https://www.linkedin.com/in/g%C3%A1dor-garc%C3%ADa-mart%C3%ADnez-99a33717b/' target="_blank"><img alt='LinkedIn ' src='https://img.shields.io/badge/LinkedIn_-100000?style=for-the-badge&logo=LinkedIn &logoColor=ffffff&labelColor=0A9EFB&color=0A9EFB'/></a>
 
 
 
