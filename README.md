@@ -1,9 +1,10 @@
 <!-- Banner -->
 ![Banner](https://github.com/Gdr18/Gdr18/assets/118227919/a96d651e-6724-4a5d-b27b-252900678329)
+
 <!-- Aplicar emoticonos más llamativo -->
 <h3 align='center'>🖖🏻 Bienvnidx a una de mis galaxias 🌌</h3>
 <h3 align='center'>Mi nombre completo es Gádor García Martínez</h3>
-<h2 align='center'>Soy Full Stack Developer Jr. 💻</h2>
+<h2 align='center'>Soy Desarrolladora Web Full Stack Jr. 💻</h2>
 <h3 align='left'>🚀 Conóceme un poco más...</h3>
 Tras un bagaje personal por diferentes sectores descubrí el mundo del desarrollo web, en el que podía dar rienda suelta a mi creatividad y mi sentido lógico, y decidí adentrarme de lleno.
 
@@ -21,23 +22,24 @@ Me considero una persona tenaz y a la que le encanta aprender allá dónde está
 <a href='#' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5_-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26'/></a>
 <a href='#' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3_-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6'/></a>
 <a href='#' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=F7DF1E'/></a>
+<a href='#' target="_blank"><img alt='SASS' src='https://img.shields.io/badge/SCSS-100000?style=for-the-badge&logo=SaSS&logoColor=white&labelColor=CC6699&color=CC6699'/></a>
 <a href='#' target="_blank"><img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB&color=61DAFB'/></a>
+<a href='#' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python_-100000?style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB&color=3776AB'/></a>
+<a href='#' target="_blank"><img alt='Flask' src='https://img.shields.io/badge/Flask_-100000?style=for-the-badge&logo=Flask&logoColor=white&labelColor=000000&color=000000'/></a>
 <a href='#' target="_blank"><img alt='Redis' src='https://img.shields.io/badge/Redis-100000?style=for-the-badge&logo=Redis&logoColor=white&labelColor=DC382D&color=DC382D'/></a>
 <a href='#' target="_blank"><img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=47A248&color=47A248'/></a>
 <a href='#' target="_blank"><img alt='MySQL' src='https://img.shields.io/badge/Mysql-100000?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1&color=4479A1'/></a>
-
+<a href='#' target="_blank"><img alt='Git' src='https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032&color=F05032'/></a>
+<a href='#' target="_blank"><img alt='Canva' src='https://img.shields.io/badge/Canva-100000?style=for-the-badge&logo=Canva&logoColor=white&labelColor=00C4CC&color=00C4CC'/></a>
 
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) / Cambiar estilo -->
 
 <h3>Me puedes encontrar aquí</h3>
 
-<!-- gmail, -->
+<!-- gmail, LinkedIn-->
 <a href='https://www.linkedin.com/in/gador-garcia-martinez-99a33717b' target="_blank"><img alt='LinkedIn ' src='https://img.shields.io/badge/LinkedIn_-100000?style=for-the-badge&logo=LinkedIn &logoColor=ffffff&labelColor=0A9EFB&color=0A9EFB'/></a>
-
-
-
-**Gdr18/Gdr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href='#' target="_blank"><img alt='gador8@gmail.com' src='https://img.shields.io/badge/gador8@gmail.com-100000?style=for-the-badge&logo=gador8@gmail.com&logoColor=white&labelColor=710CB0&color=710CB0'/></a>
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
