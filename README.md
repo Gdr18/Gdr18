@@ -18,7 +18,7 @@ Me considero una persona tenaz y a la que le encanta aprender allá dónde está
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) -->
 <a href='https://drive.google.com/file/d/165KaqzwXwtSAulHK851v9MKuNffPUbGL/view?usp=drivesdk' target="_blank"><img alt='Currículum Vitae' src='https://img.shields.io/badge/Currículum_Vitae-100000?style=for-the-badge&logo=Currículum Vitae&logoColor=F08D0A&labelColor=F08D0A&color=F08D0A'/></a>
 
-<h3>Tecnologías</h3>
+<h3>🔧 Tecnologías</h3>
 <a href='#' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5_-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26'/></a>
 <a href='#' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3_-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6'/></a>
 <a href='#' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=F7DF1E'/></a>
@@ -34,11 +34,11 @@ Me considero una persona tenaz y a la que le encanta aprender allá dónde está
 
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) / Cambiar estilo -->
 
-<h3>Me puedes encontrar aquí</h3>
+<h3>📫 Me puedes encontrar aquí</h3>
 
 <!-- gmail, LinkedIn-->
 <a href='https://www.linkedin.com/in/gador-garcia-martinez-99a33717b' target="_blank"><img alt='LinkedIn ' src='https://img.shields.io/badge/LinkedIn_-100000?style=for-the-badge&logo=LinkedIn &logoColor=ffffff&labelColor=0A9EFB&color=0A9EFB'/></a>
-<a href='#' target="_blank"><img alt='gador8@gmail.com' src='https://img.shields.io/badge/gador8@gmail.com-100000?style=for-the-badge&logo=gador8@gmail.com&logoColor=white&labelColor=710CB0&color=710CB0'/></a>
+<a href='gador8@gmail.com' target="_blank"><img alt='gador8@gmail.com' src='https://img.shields.io/badge/gador8@gmail.com-100000?style=for-the-badge&logo=gador8@gmail.com&logoColor=white&labelColor=710CB0&color=710CB0'/></a>
 <!--
 Here are some ideas to get you started:
 
