@@ -8,7 +8,7 @@
 <h2 align='center'>Soy Full Stack Developer Jr. 💻</h2>
 
 <!-- <h3 align='left'>🚀 Conóceme un poco más...</h3> -->
-###Conóceme un poco más..
+### Conóceme un poco más..
 Tras un bagaje personal por diferentes sectores descubrí el mundo del desarrollo web, en el que podía dar rienda suelta a mi creatividad y mi sentido lógico, y decidí adentrarme de lleno.
 
 Siempre me ha atraído el diseño y lo que tuviera que ver con el arte, poniéndole especial atención a la caligrafía y a la tipografía.
