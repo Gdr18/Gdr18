@@ -6,23 +6,26 @@
 <h3 align='center'>Mi nombre completo es Gádor García Martínez</h3>
 <h2 align='center'>Soy Desarrolladora Web Full Stack Jr. 💻</h2>
 <h3 align='left'>🚀 Conóceme un poco más...</h3>
-Tras un bagaje personal por diferentes sectores descubrí el mundo del desarrollo web, en el que podía dar rienda suelta a mi creatividad y mi sentido lógico, y decidí adentrarme de lleno.
 
-Siempre me ha atraído el diseño y lo que tuviera que ver con el arte, poniéndole especial atención a la caligrafía y a la tipografía.
+Hola, soy Gádor 👋
 
-En mis ratos libres me gusta disfrutar haciendo ejercicio o jugando a videojuegos.
+Desde pequeña, he sentido una gran fascinación por la tecnología y la innovación, así como por el diseño y el arte. En mi viaje hacia la mejora personal y profesional, encontré la confluencia perfecta de todos estos intereses en el desarrollo web. Este campo me permite dar rienda suelta a mi creatividad y poner en práctica mis habilidades lógicas.
 
-Me considero una persona tenaz y a la que le encanta aprender allá dónde está, así como compartir mis conocimientos y experiencias con los demás.
+Mi experiencia en diversos sectores, como la hostelería y la logística, me ha proporcionado una visión amplia y me ha permitido adaptarme a diferentes entornos de trabajo.
+
+Me considero una persona curiosa, tenaz y siempre dispuesta a aprender y enfrentar nuevos desafíos. Me encanta compartir mis conocimientos y colaborar en proyectos que tengan un impacto positivo.
+
+Si necesitas a alguien creativo y con atención al detalle, no dudes en contactarme 😊
 
 <!-- Poner portfolio, CV,  -->
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) -->
 <a href='https://drive.google.com/file/d/165KaqzwXwtSAulHK851v9MKuNffPUbGL/view?usp=drivesdk' target="_blank"><img alt='Currículum Vitae' src='https://img.shields.io/badge/Currículum_Vitae-100000?style=for-the-badge&logo=Currículum Vitae&logoColor=F08D0A&labelColor=F08D0A&color=F08D0A'/></a>
 
-<h3>🔧 Tecnologías</h3>
+<h3>⚙️ Tecnologías</h3>
 <a href='#' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5_-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26'/></a>
 <a href='#' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3_-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6'/></a>
 <a href='#' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=F7DF1E'/></a>
-<a href='#' target="_blank"><img alt='SASS' src='https://img.shields.io/badge/SCSS-100000?style=for-the-badge&logo=SaSS&logoColor=white&labelColor=CC6699&color=CC6699'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='sass' src='https://img.shields.io/badge/SASS-100000?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699&color=CC6699'/></a>
 <a href='#' target="_blank"><img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB&color=61DAFB'/></a>
 <a href='#' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python_-100000?style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB&color=3776AB'/></a>
 <a href='#' target="_blank"><img alt='Flask' src='https://img.shields.io/badge/Flask_-100000?style=for-the-badge&logo=Flask&logoColor=white&labelColor=000000&color=000000'/></a>
@@ -30,6 +33,12 @@ Me considero una persona tenaz y a la que le encanta aprender allá dónde está
 <a href='#' target="_blank"><img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=47A248&color=47A248'/></a>
 <a href='#' target="_blank"><img alt='MySQL' src='https://img.shields.io/badge/Mysql-100000?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1&color=4479A1'/></a>
 <a href='#' target="_blank"><img alt='Git' src='https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032&color=F05032'/></a>
+
+<h3>⚙️ Herramientas</h3>
+
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='VISUAL STUDIO CODE' src='https://img.shields.io/badge/VISUAL_STUDIO CODE-100000?style=for-the-badge&logo=VISUAL STUDIO CODE&logoColor=white&labelColor=3FA9F5&color=3FA9F5'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Postman' src='https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white&labelColor=FF6C37&color=FF6C37'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='vite' src='https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=vite&logoColor=white&labelColor=646CFF&color=646CFF'/></a>
 <a href='#' target="_blank"><img alt='Canva' src='https://img.shields.io/badge/Canva-100000?style=for-the-badge&logo=Canva&logoColor=white&labelColor=00C4CC&color=00C4CC'/></a>
 
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) / Cambiar estilo -->
