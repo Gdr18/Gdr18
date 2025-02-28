@@ -1,6 +1,4 @@
 <!-- Banner -->
-![Banner](https://github.com/Gdr18/Gdr18/assets/118227919/a96d651e-6724-4a5d-b27b-252900678329)
-
 <!-- Aplicar emoticonos más llamativo -->
 <h3 align='center'>Bienvnidx! 🖖🏻</h3>
 <h3 align='center'>Mi nombre completo es Gádor García Martínez</h3>
