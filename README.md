@@ -32,7 +32,7 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 <h3>⚙️ Herramientas</h3>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Postman' src='https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white&labelColor=FF6C37&color=FF6C37'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='vite' src='https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=vite&logoColor=white&labelColor=646CFF&color=646CFF'/></a>
-<a href='#' target="_blank"><img alt='Canva' src='https://img.shields.io/badge/Canva-100000?style=for-the-badge&logo=Canva&logoColor=white&labelColor=00C4CC&color=00C4CC'/></a>
+<a href='#'><img alt='Canva' src='https://img.shields.io/badge/Canva-100000?style=for-the-badge&logo=Canva&logoColor=white&labelColor=00C4CC&color=00C4CC'/></a>
 
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) / Cambiar estilo -->
 
