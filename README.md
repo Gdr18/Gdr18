@@ -1,9 +1,9 @@
 <!-- Banner -->
 <!-- Aplicar emoticonos más llamativo -->
 <h2 align='center'>Gádor García Martínez</h2>
-<h3 align='center'>Soy Desarrolladora Web Full Stack 💻</h3>
+<h3 align='center'>Desarrolladora Web Full Stack 💻</h3>
 
-<h3 align='center'>🖖🏻 Bienvnidx!</h3>
+<h3 align='left'>🖖🏻 Bienvnidx!</h3>
 
 <h3 align='left'>🚀 Conóceme un poco más...</h3>
 
