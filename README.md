@@ -30,8 +30,8 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 <a href='#' target="_blank"><img alt='Git' src='https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032&color=F05032'/></a>
 
 <h3>⚙️ Herramientas</h3>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Postman' src='https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white&labelColor=FF6C37&color=FF6C37'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='vite' src='https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=vite&logoColor=white&labelColor=646CFF&color=646CFF'/></a>
+<a href='#'><img alt='Postman' src='https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white&labelColor=FF6C37&color=FF6C37'/></a>
+<a href='#'><img alt='Vite' src='https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=vite&logoColor=white&labelColor=646CFF&color=646CFF'/></a>
 <a href='#'><img alt='Canva' src='https://img.shields.io/badge/Canva-100000?style=for-the-badge&logo=Canva&logoColor=white&labelColor=00C4CC&color=00C4CC'/></a>
 
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) / Cambiar estilo -->
@@ -40,7 +40,7 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 
 <!-- gmail, LinkedIn-->
 <a href='https://www.linkedin.com/in/gador-garcia-martinez-99a33717b' target="_blank"><img alt='LinkedIn ' src='https://img.shields.io/badge/LinkedIn_-100000?style=for-the-badge&logo=LinkedIn &logoColor=ffffff&labelColor=0A9EFB&color=0A9EFB'/></a>
-<a href='gador8@gmail.com' target="_blank" target="_blank"><img alt='gador8@gmail.com' src='https://img.shields.io/badge/gador8@gmail.com-100000?style=for-the-badge&logo=gador8@gmail.com&logoColor=white&labelColor=710CB0&color=710CB0'/></a>
+<a href='#'><img alt='gador8@gmail.com' src='https://img.shields.io/badge/gador8@gmail.com-100000?style=for-the-badge&logo=gador8@gmail.com&logoColor=white&labelColor=710CB0&color=710CB0'/></a>
 <!--
 Here are some ideas to get you started:
 
