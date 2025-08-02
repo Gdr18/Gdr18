@@ -4,7 +4,7 @@
 <h3 align='center'>Desarrolladora Web Full Stack 💻</h3>
 
 <h3 align='left'>🖖🏻 Bienvnidx!</h3>
-<br></br>
+
 <h3 align='left'>🚀 Conóceme un poco más...</h3>
 
 ¡Hola! Soy Gádor 👋
