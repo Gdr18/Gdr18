@@ -4,10 +4,10 @@
 <h3 align='center'>Desarrolladora Web Full Stack 💻</h3>
 
 <h3 align='left'>🖖🏻 Bienvnidx!</h3>
+<br></br>
 
 <h3 align='left'>🚀 Conóceme un poco más...</h3>
 
-<br></br>
 ¡Hola! Soy Gádor 👋
 
 Apasionada por la tecnología, el diseño y el arte, encontré en el desarrollo web el punto perfecto donde unirlo todo.  
