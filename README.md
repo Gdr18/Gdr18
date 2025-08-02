@@ -14,13 +14,13 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 
 <!-- Poner portfolio, CV,  -->
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) -->
-<a href='https://drive.google.com/file/d/1l0xYsHaTFwhHBv6i9ReHo6m59qZqAJB9/view?usp=sharing'><img alt='Currículum Vitae' src='https://img.shields.io/badge/Curriculum_Vitae-100000?style=for-the-badge&logo=Curriculum Vitae&logoColor=white&labelColor=FF9614&color=FF9614'/></a>
+<a href='https://drive.google.com/file/d/1l0xYsHaTFwhHBv6i9ReHo6m59qZqAJB9/view?usp=sharing'><img alt='Curriculum Vitae' src='https://img.shields.io/badge/Curriculum_Vitae-100000?style=for-the-badge&logo=Curriculum Vitae&logoColor=white&labelColor=FF9614&color=FF9614'/></a>
 
 <h3>⚙️ Tecnologías</h3>
 <a href='#' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5_-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26'/></a>
 <a href='#' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3_-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6'/></a>
 <a href='#' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=F7DF1E'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='sass' src='https://img.shields.io/badge/SASS-100000?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699&color=CC6699'/></a>
+<a href='#' target="_blank"><img alt='sass' src='https://img.shields.io/badge/SASS-100000?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699&color=CC6699'/></a>
 <a href='#' target="_blank"><img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB&color=61DAFB'/></a>
 <a href='#' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python_-100000?style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB&color=3776AB'/></a>
 <a href='#' target="_blank"><img alt='Flask' src='https://img.shields.io/badge/Flask_-100000?style=for-the-badge&logo=Flask&logoColor=white&labelColor=000000&color=000000'/></a>
