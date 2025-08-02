@@ -1,23 +1,20 @@
 <!-- Banner -->
 <!-- Aplicar emoticonos más llamativo -->
 <h3 align='center'>Bienvnidx! 🖖🏻</h3>
-<h3 align='center'>Mi nombre completo es Gádor García Martínez</h3>
-<h2 align='center'>Soy Desarrolladora Web Full Stack Jr. 💻</h2>
+<h2 align='center'>Soy Desarrolladora Web Full Stack 💻</h2>
 <h3 align='left'>🚀 Conóceme un poco más...</h3>
 
-Hola, soy Gádor 👋
+### 👋 ¡Hola! Soy Gádor
 
-Desde pequeña, he sentido una gran fascinación por la tecnología y la innovación, así como por el diseño y el arte. En mi viaje hacia la mejora personal y profesional, encontré la confluencia perfecta de todos estos intereses en el desarrollo web. Este campo me permite dar rienda suelta a mi creatividad y poner en práctica mis habilidades lógicas.
+Apasionada por la tecnología, el diseño y el arte, encontré en el desarrollo web el punto perfecto donde unirlo todo.  
+Aquí es donde doy rienda suelta a la creatividad y a la lógica a partes iguales 🧠✨
 
-Mi experiencia en diversos sectores, como la hostelería y la logística, me ha proporcionado una visión amplia y me ha permitido adaptarme a diferentes entornos de trabajo.
-
-Me considero una persona curiosa, tenaz y siempre dispuesta a aprender y enfrentar nuevos desafíos. Me encanta compartir mis conocimientos y colaborar en proyectos que tengan un impacto positivo.
-
-Si necesitas a alguien creativo y con atención al detalle, no dudes en contactarme 😊
+Curiosa, constante y con muchas ganas de seguir creciendo.  
+¿Te interesa colaborar o charlar? ¡Estoy a un clic! 😊
 
 <!-- Poner portfolio, CV,  -->
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) -->
-<a href='https://drive.google.com/file/d/165KaqzwXwtSAulHK851v9MKuNffPUbGL/view?usp=drivesdk' target="_blank"><img alt='Currículum Vitae' src='https://img.shields.io/badge/Currículum_Vitae-100000?style=for-the-badge&logo=Currículum Vitae&logoColor=F08D0A&labelColor=F08D0A&color=F08D0A'/></a>
+<a href='https://drive.google.com/file/d/165KaqzwXwtSAulHK851v9MKuNffPUbGL/view?usp=drivesdk' target="_blank"><img alt='Currículum Vitae' src='https://drive.google.com/file/d/1l0xYsHaTFwhHBv6i9ReHo6m59qZqAJB9/view?usp=sharing'/></a>
 
 <h3>⚙️ Tecnologías</h3>
 <a href='#' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5_-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26'/></a>
@@ -33,8 +30,6 @@ Si necesitas a alguien creativo y con atención al detalle, no dudes en contacta
 <a href='#' target="_blank"><img alt='Git' src='https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032&color=F05032'/></a>
 
 <h3>⚙️ Herramientas</h3>
-
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='VISUAL STUDIO CODE' src='https://img.shields.io/badge/VISUAL_STUDIO CODE-100000?style=for-the-badge&logo=VISUAL STUDIO CODE&logoColor=white&labelColor=3FA9F5&color=3FA9F5'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Postman' src='https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white&labelColor=FF6C37&color=FF6C37'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='vite' src='https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=vite&logoColor=white&labelColor=646CFF&color=646CFF'/></a>
 <a href='#' target="_blank"><img alt='Canva' src='https://img.shields.io/badge/Canva-100000?style=for-the-badge&logo=Canva&logoColor=white&labelColor=00C4CC&color=00C4CC'/></a>
