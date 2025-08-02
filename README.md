@@ -43,7 +43,7 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 <h3>📫 Me puedes encontrar aquí</h3>
 
 <!-- gmail, LinkedIn-->
-<a href='https://www.linkedin.com/in/gador-garcia-martinez-99a33717b' target="_blank"><img alt='LinkedIn ' src='https://img.shields.io/badge/LinkedIn_-100000?style=for-the-badge&logo=LinkedIn &logoColor=ffffff&labelColor=0A9EFB&color=0A9EFB'/></a>
+<a href='https://www.linkedin.com/in/gador-garcia-martinez-99a33717b' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0A9EFB'/></a>
 <a href='#'><img alt='gador8@gmail.com' src='https://img.shields.io/badge/gador8@gmail.com-100000?style=for-the-badge&logo=gador8@gmail.com&logoColor=white&labelColor=710CB0&color=710CB0'/></a>
 <!--
 Here are some ideas to get you started:
