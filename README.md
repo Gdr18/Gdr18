@@ -21,6 +21,8 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 <a href='https://drive.google.com/file/d/1UFr_j2glsetUxpApTqhdq3CTX4o5Gjdj/view?usp=sharing' target="_blank"><img alt='Curriculum Vitae' src='https://img.shields.io/badge/Curriculum_Vitae-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=FF9614'/></a>
 
 <h3>⚙️ Tecnologías</h3>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,py,flask,mongodb,mysql,redis" />
+<!--
 <a href='#' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5_-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26'/></a>
 <a href='#' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3_-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6'/></a>
 <a href='#' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=F7DF1E'/></a>
@@ -32,12 +34,14 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 <a href='#' target="_blank"><img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=47A248&color=47A248'/></a>
 <a href='#' target="_blank"><img alt='MySQL' src='https://img.shields.io/badge/Mysql-100000?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1&color=4479A1'/></a>
 <a href='#' target="_blank"><img alt='Git' src='https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032&color=F05032'/></a>
-
+-->
 <h3>🔧​ Herramientas</h3>
+<img src="https://skillicons.dev/icons?i=pycharm,vscode,postman,vite,git,github,figma,powershell" />
+<!--
 <a href='#'><img alt='Postman' src='https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white&labelColor=FF6C37&color=FF6C37'/></a>
 <a href='#'><img alt='Vite' src='https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=vite&logoColor=white&labelColor=646CFF&color=646CFF'/></a>
 <a href='#'><img alt='Canva' src='https://img.shields.io/badge/Canva-100000?style=for-the-badge&logo=Canva&logoColor=white&labelColor=00C4CC&color=00C4CC'/></a>
-
+-->
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) / Cambiar estilo -->
 
 <h3>📫 Me puedes encontrar aquí</h3>
