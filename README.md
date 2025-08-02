@@ -18,7 +18,7 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 
 <!-- Poner portfolio, CV,  -->
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) -->
-<a href='https://drive.google.com/file/d/1l0xYsHaTFwhHBv6i9ReHo6m59qZqAJB9/view?usp=sharing' target="_blank"><img alt='Curriculum Vitae' src='https://img.shields.io/badge/Curriculum_Vitae-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=FF9614'/></a>
+<a href='https://drive.google.com/file/d/1UFr_j2glsetUxpApTqhdq3CTX4o5Gjdj/view?usp=sharing' target="_blank"><img alt='Curriculum Vitae' src='https://img.shields.io/badge/Curriculum_Vitae-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=FF9614'/></a>
 
 <h3>⚙️ Tecnologías</h3>
 <a href='#' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5_-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26'/></a>
