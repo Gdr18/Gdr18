@@ -7,7 +7,7 @@
 
 <h3 align='left'>🚀 Conóceme un poco más...</h3>
 
-\n
+<br></br>
 ¡Hola! Soy Gádor 👋
 
 Apasionada por la tecnología, el diseño y el arte, encontré en el desarrollo web el punto perfecto donde unirlo todo.  
@@ -15,7 +15,8 @@ Aquí es donde doy rienda suelta a la creatividad y a la lógica a partes iguale
 
 Curiosa, constante y con muchas ganas de seguir creciendo.  
 ¿Te interesa colaborar o charlar? ¡Estoy a un clic! 😊
-\n
+<br></br>
+
 <!-- Poner portfolio, CV,  -->
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) -->
 <a href='https://drive.google.com/file/d/1l0xYsHaTFwhHBv6i9ReHo6m59qZqAJB9/view?usp=sharing' target="_blank"><img alt='Curriculum Vitae' src='https://img.shields.io/badge/Curriculum_Vitae-100000?style=for-the-badge&logo=Curriculum Vitae&logoColor=white&labelColor=FF9614&color=FF9614'/></a>
