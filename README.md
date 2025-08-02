@@ -7,7 +7,7 @@
 
 <h3 align='left'>🚀 Conóceme un poco más...</h3>
 
-¡Hola! Soy Gádor 👋
+Hola! Soy Gádor 👋
 
 Apasionada por la tecnología, el diseño y el arte, encontré en el desarrollo web el punto perfecto donde unirlo todo.  
 Aquí es donde doy rienda suelta a la creatividad y a la lógica a partes iguales 🧠✨
