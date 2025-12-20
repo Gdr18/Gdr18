@@ -21,7 +21,7 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 <a href='https://drive.google.com/file/d/1UFr_j2glsetUxpApTqhdq3CTX4o5Gjdj/view?usp=sharing' target="_blank"><img alt='Curriculum Vitae' src='https://img.shields.io/badge/Curriculum_Vitae-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=FF9614'/></a>
 
 <h3>⚙️ Tecnologías</h3>
-<img src="https://skillicons.dev/icons?i=html,css,sass,ts,js,react,py,flask,mongodb,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py,flask,mongodb,mysql,redis" />
 <!--
 <a href='#' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5_-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=E34F26'/></a>
 <a href='#' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3_-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=1572B6'/></a>
