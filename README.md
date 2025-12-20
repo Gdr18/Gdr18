@@ -16,10 +16,13 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 ¿Te interesa colaborar o charlar? ¡Estoy a un clic! 😊
 <br></br>
 
-<!-- Poner portfolio, CV,  -->
-<!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) -->
-<a href='https://drive.google.com/file/d/1UFr_j2glsetUxpApTqhdq3CTX4o5Gjdj/view?usp=sharing' target="_blank"><img alt='Curriculum Vitae' src='https://img.shields.io/badge/Curriculum_Vitae-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=FF9614'/></a>
+<h3>📫 Me puedes encontrar aquí</h3>
 
+<!-- gmail, LinkedIn-->
+<a href='https://gadordev.site' target="_blank"><img alt='Portfolio' src='https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=portfoliologoColor=white&labelColor=710CB0&color=710CB0'/></a>
+<a href='https://www.linkedin.com/in/gador-garcia-martinez-99a33717b' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0A9EFB'/></a>
+<a href='https://drive.google.com/file/d/1UFr_j2glsetUxpApTqhdq3CTX4o5Gjdj/view?usp=sharing' target="_blank"><img alt='Curriculum Vitae' src='https://img.shields.io/badge/Curriculum_Vitae-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=FF9614'/></a>
+<br></br>
 <h3>⚙️ Tecnologías</h3>
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py,flask,mongodb,mysql,redis" />
 <!--
@@ -37,6 +40,7 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 -->
 <h3>🔧​ Herramientas</h3>
 <img src="https://skillicons.dev/icons?i=pycharm,vscode,postman,vite,git,github,figma,powershell" />
+
 <!--
 <a href='#'><img alt='Postman' src='https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=Postman&logoColor=white&labelColor=FF6C37&color=FF6C37'/></a>
 <a href='#'><img alt='Vite' src='https://img.shields.io/badge/Vite-100000?style=for-the-badge&logo=vite&logoColor=white&labelColor=646CFF&color=646CFF'/></a>
@@ -44,11 +48,6 @@ Curiosa, constante y con muchas ganas de seguir creciendo.
 -->
 <!-- Para crear badges(https://kapasia-dev-ed.my.site.com/Badges4Me/s/) / Cambiar estilo -->
 
-<h3>📫 Me puedes encontrar aquí</h3>
-
-<!-- gmail, LinkedIn-->
-<a href='https://www.linkedin.com/in/gador-garcia-martinez-99a33717b' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0A9EFB'/></a>
-<a href='https://gadordev.site' target="_blank"><img alt='Portfolio' src='https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=portfoliologoColor=white&labelColor=710CB0&color=710CB0'/></a>
 <!--
 Here are some ideas to get you started:
 
